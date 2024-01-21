@@ -1,2 +1,2 @@
 Để tạo 1000 ip v6 static thì tạo một con máy centos trên vultr, sau đó paste dòng sau vào là xong : 
-bash <(curl -s "https://sellacc.net/iv6.sh")
+bash <(curl -s "https://raw.githubusercontent.com/i99940x/3proxy_vultr_centos/main/vultr-1000-iv6-static.sh")
